@@ -1,0 +1,15 @@
+drop table if exists `64shop_user`;
+
+create table `64shop_user`(
+	user_ID varchar(32) not null,
+	user_NAME varchar(20) not null,
+	user_PASSWORD varchar(20) not null,
+	user_SEX varchar(1) not null,
+	user_BIRTHDAY datetime default null,
+	user_IDENITY_CODE varchar(60) default null,
+	user_EMAIL varchar(60) default null,
+	user_MOBEL varchar(11) default null,
+	user_ADDRESS varchar(200) not null,
+	user_STATUS decimal(6,0) not null,
+	primary key(`user_ID`)
+)ENGINE=InnoDB default charset=utf8;

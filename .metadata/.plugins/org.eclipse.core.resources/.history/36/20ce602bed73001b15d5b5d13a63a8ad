@@ -1,0 +1,15 @@
+package com.lmonkey.entity;
+
+public class LMONKEY_USER {
+
+	private String user_ID;
+	user_NAME 
+	user_PASSWORD
+	user_SEX 
+	user_BIRTHDAY 
+	user_IDENITY_CODE
+	user_EMAIL 
+	user_MOBEL 
+	user_ADDRESS 
+	user_STATUS 
+}

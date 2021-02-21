@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;liuzhishop/WebContent/manage/menu.jsp&apos; to &apos;admin_menu.jsp&apos;" description="Rename resource &apos;menu.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/manage/menu.jsp" name="admin_menu.jsp" stamp="1613906862517" updateReferences="true"/>
+</session>
